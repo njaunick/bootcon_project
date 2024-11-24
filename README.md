@@ -43,9 +43,8 @@
 ## Dataset
 - The project used the "911-call-transcripts" dataset from Kaggle, loaded using the Hugging Face datasets library. 
 - The dataset is processed to create a binary classification task:
-	- Label 0: Caller's messages
-	- Label 1: Assistant's (dispatcher's) messages
-
+	- Label 0: Emergency Calls
+	- Label 1: Non-Emergency Calls
 ## Model Architecture
 - Base model: BERT (bert-base-uncased)
 - Additional classification layer for binary classification
