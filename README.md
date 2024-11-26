@@ -1,4 +1,10 @@
-# bootcon_project
+# BOOTCON
+
+## Members
+- Symia Woodson
+- Wanda Knight
+- Nickson Njau
+
 # Emergency Call Response 
 
 ## Classification
